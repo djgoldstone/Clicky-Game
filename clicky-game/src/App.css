@@ -1,7 +1,23 @@
 .App {
   text-align: center;
+  font-family: 'Syncopate', sans-serif;
+  font-size: 24px;
+}
+
+html {
+  background: url("https://cdn.vox-cdn.com/thumbor/F2ueQlp3TW1xeImQsxib9fJbIFQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/52778597/20161222_SEAerial.0.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+img {
+  border:3px solid white;
 }
 
 .player {
   max-width: 250px;
+  max-height: 140px;
+  margin: 1%;
 }

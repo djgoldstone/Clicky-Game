@@ -36,7 +36,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <h1>Clicky Game</h1>
+        <h1>Warriors Clicky Game</h1>
         {
           this.state.hasBeenClicked.length === this.state.players.length ? <h2>Congrats, you won!</h2> : <h2>Your Current Streak: {this.state.score}</h2>
         }

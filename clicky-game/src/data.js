@@ -22,6 +22,30 @@ var data = [
     {
         name: "Alfonzo",
         url: "https://www.sfexaminer.com/wp-content/uploads/2019/04/16541129_web1_Alfonzo-McKinnie_1.jpg"
+    },
+    {
+        name: "D-Lo",
+        url: "https://clutchpoints.com/wp-content/uploads/2019/07/69_DAngelo_Russell.jpg"
+    },
+    {
+        name: "WCS",
+        url: "https://clutchpoints.com/wp-content/uploads/2019/07/T53.jpg"
+    },
+    {
+        name: "Alec",
+        url: "https://clutchpoints.com/wp-content/uploads/2019/07/T26-6.jpg"
+    },
+    {
+        name: "Jordan",
+        url: "https://www.mercurynews.com/wp-content/uploads/2019/06/BNG-L-WARRIORS-0625-16.jpg?w=525"
+    },
+    {
+        name: "Eric",
+        url: "https://s.hdnux.com/photos/01/03/74/00/17809436/5/gallery_medium.jpg"
+    },
+    {
+        name: "Alen",
+        url: "https://www.nbcsports.com/bayarea/sites/csnbayarea/files/2019/06/28/smilagicwhitebackground.jpg"
     }
 ];
 
