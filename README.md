@@ -20,7 +20,7 @@ ___
 * [Google Fonts](https://developers.google.com/fonts/)
 
 
-![Graph]()
+![Graph](images/graph.png)
 ___
 
 ## Author:
