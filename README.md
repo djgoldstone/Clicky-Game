@@ -5,7 +5,7 @@ Warriors Clicky Game is a memorization game made using React!
 [Visit the deployed page here!](https://djgoldstone.github.io/Clicky-Game/)
 ___
 
-![Warriors Clicky Game]()
+![Warriors Clicky Game](images/screenshot.png)
 ___
 
 ## Built With
